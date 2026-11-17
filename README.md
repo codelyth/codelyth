@@ -24,9 +24,18 @@ I actively use AI tools throughout my development workflow for planning, problem
 
 **Municipal GIS-Based Request & Case Management Platform**
 
-A multi-municipality platform developed during my software development internship, featuring REST APIs, case management workflows, role-based authorization, SLA tracking, audit logging, and geospatial functionality.
+*Professional Internship Project | Private Repository*
 
-`C#` `.NET` `EF Core` `PostgreSQL` `PostGIS` `Docker`
+Contributed to the development of a multi-municipality GIS-based platform as part of a three-person software development team.
+
+- Developed backend services and RESTful APIs using C# and .NET.
+- Worked on case management, role-based authorization, SLA tracking, and audit logging.
+- Contributed to database design, administrative interfaces, and integration testing.
+- Used AI-assisted development workflows for implementation, debugging, refactoring, and problem-solving.
+
+**Tech Stack:** C# · .NET · Entity Framework Core · PostgreSQL/PostGIS · Docker · Git
+
+🔒 Source code is private and not publicly available.
 
 **Erasmus Course Registration & Management System** — *In Progress*
 
