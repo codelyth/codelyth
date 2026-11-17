@@ -35,6 +35,6 @@ AI-Native Development · LLM Tools · Backend Architecture · Machine Learning �
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yaprak Cihantimur-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaprak-cihantimur/)
-[![Email](https://img.shields.io/badge/Email-Yaprak Cihantimur-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:yaprakcihantimur@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YaprakCihantimur-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaprak-cihantimur/)
+[![Email](https://img.shields.io/badge/Email-YaprakCihantimur-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:yaprakcihantimur@gmail.com)
 
