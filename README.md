@@ -1,7 +1,7 @@
 
 # Hi there, I'm Yaprak! 👋
 
-🎓 **Computer Engineering @ Mudanya University** | 🌐 **Erasmus+ @ University of Bielsko-Biała**
+🎓 **Computer Engineering @ Mudanya University** | 🌐 **Erasmus+ @University of Bielsko-Biała**
 
 I'm passionate about software development, backend engineering, and AI/ML. I enjoy turning ideas into working applications and using AI tools to support planning, coding, debugging, and problem-solving while understanding and validating what I build.
 
@@ -30,11 +30,11 @@ AI-Native Development · LLM Tools · Backend Architecture · Machine Learning �
 
 ## 🌍 Beyond Coding
 
-🤝 Founding Member & Board Member @ Mudü Fikir ve Teknoloji Kulübü  
+🤝 Founding Member & Board Member @Mudü Fikir ve Teknoloji Kulübü  
 🎻 Music · ✈️ Travelling · 🎮 Gaming · 💻 Technology
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaprak-cihantimur/)
-[![GitHub](https://img.shields.io/badge/GitHub-codelyth-181717?style=flat&logo=github&logoColor=white)](https://github.com/codelyth)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YaprakCihantimur-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaprak-cihantimur/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:yaprakcihantimur@gmail.com)
 
