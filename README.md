@@ -22,7 +22,7 @@ I actively use AI tools throughout my development workflow for planning, problem
 
 ### 🚀 Featured Projects
 
-**Municipal GIS-Based Request & Case Management Platform**
+**🏙️Municipal GIS-Based Request & Case Management Platform**
 
 *Professional Internship Project | Private Repository*
 
@@ -37,23 +37,23 @@ Contributed to the development of a multi-municipality GIS-based platform as par
 
 🔒 Source code is private and not publicly available.
 
-**Erasmus Course Registration & Management System** — *In Progress*
+**🎓Erasmus Course Registration & Management System** — *In Progress*
 
 A Windows desktop application for managing students, courses, and registrations, with planned AI-powered face recognition and anti-spoofing features.
 
-`C#` `.NET` `WinForms` `OOP` `LINQ` `Python`
+**Texh Stack:** C# · .NET · WinForms · OOP · LINQ · Python
 
-**HRAI – Human Response Analysis & Intelligence** — *In Progress*
+**🎙️HRAI – Human Response Analysis & Intelligence** — *In Progress*
 
 A multimodal analysis project exploring audio processing, speaker identification, speech recognition, and emotion analysis. Currently developing the audio processing pipeline.
 
-`Python` `FFmpeg` `Librosa` `Audio Processing`
+**Tech Stack:** Python · FFmpeg · Librosa · Audio Processing
 
-**Track Diabetes** — *In Progress*
+**🩸Track Diabetes** — *In Progress*
 
 A Flutter mobile application for tracking blood glucose measurements, managing records, and scheduling reminders.
 
-`Flutter` `Dart` `Firebase Auth` `Firestore`
+**Tech Stack:** Flutter · Dart · Firebase Auth · Firestore
 
 ### 🌱 Currently Exploring
 
