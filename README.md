@@ -1,8 +1,6 @@
 
 # Hi there, I'm Yaprak! 👋
 
-🎓 **Computer Engineering @ Mudanya University** | 🌐 **Erasmus+ @University of Bielsko-Biała**
-
 I'm passionate about software development, backend engineering, and AI/ML. I enjoy turning ideas into working applications and using AI tools to support planning, coding, debugging, and problem-solving while understanding and validating what I build.
 
 ## 🛠️ Tech Stack
